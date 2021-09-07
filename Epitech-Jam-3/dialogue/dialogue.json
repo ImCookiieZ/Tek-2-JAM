@@ -1,0 +1,40 @@
+{
+  "dialogue": [
+    {
+      "text": "-My first challenge for you is: You don’t know that I exist but when you find me through luck you get happy. I am hidden in some games. What am I?",
+      "answer": "easter egg",
+      "index": "1"
+    },
+    {
+      "text": "-But there are 6 challenges left… Lets get to the next one: I travel around the world, but always stay in the same corner. What am I?",
+      "answer": "stamp",
+      "index": "2"
+      
+    },
+    {
+      "text": "-Okay you got it, Remember all the hints, you will need them. I always lie in bed, but never get tired. What am I?",
+      "answer": "bedding",
+      "index": "3"
+    },
+    {
+      "text": "-You got this one but do you get this one? In spring I delight you, in summer I cool you, in autumn I nourish you, in winter I warm you. Who or what am I?",
+      "answer": "tree",
+      "index": "4"
+    },
+    {
+      "text": "-Let’s make it harder… I have two wings and cannot fly. I have one back and I can$t lie down. I have one leg and cannot stand. Wear glasses and can't see. What am I?",
+      "answer": "nose",
+      "index": "5"
+    },
+    {
+      "text": "-That was a hint. But you really nearly got it. When you have me, you want to pass me on. When you pass me on, I am no longer me. What am I?",
+      "answer": "secret",
+      "index": "6"
+    },
+    {
+      "text": "-Last but not least:\nWhen you need me, you throw me away. When you no longer need me, you take me back. What am I?",
+      "answer": "fishing hook",
+      "index": "7"
+    }
+  ]
+}

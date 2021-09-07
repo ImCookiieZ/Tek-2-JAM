@@ -1,0 +1,51 @@
+{
+  "opening":"Hi, my name is Elliot. You're special and I want to test you. I want you in my group.\nIf you manage to think logically and solve this game with its puzzles, you'll be our new member.\nYou$re in a small room. There are a door with a note on it, a book shelf, a desk with a computer and a carpet\n",
+
+  "objects": [
+    {
+      "name": "door",
+      "options": [
+        "open door",
+        "read note"
+      ]
+    },
+    {
+      "name": "shelf",
+      "options": [
+        "investigate",
+        "grab book"
+      ],
+      "books": [
+        {"name": "passwords",
+        "content": "I$ll better set my password 1234 to never forget it"},
+        {"name": "banana",
+        "content": "Bananas are tasty. Monkeys love them! [You've found the Easter Egg]"},
+        {"name":  "safe",
+        "content": "The book was hollowed out and inside it was a key!"}
+      ]
+    },
+    {
+      "name": "desk",
+      "options": [
+        "investigate computer",
+        "investigate plate"
+      ],
+      "computer_options": [
+        "enter password",
+        "look for hints",
+        "play genshin impact",
+        "watch Karl$s livestream (ImCookiieZz&"
+      ]
+    },
+    {
+      "name": "carpet",
+      "options": [
+        "sit on it",
+        "pull it"
+      ],
+      "safe_options": [
+        "unlock"
+      ]
+    }
+  ]
+}
